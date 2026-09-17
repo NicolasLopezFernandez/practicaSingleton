@@ -8,7 +8,7 @@ public class ConfiguracionInterfaz {
         Idioma = "ES";
         tamañoFuente = 12;
     }
-
+//El singleton
     public static ConfiguracionInterfaz getInstancia() {
         if (instancia == null) {
             instancia = new ConfiguracionInterfaz();
