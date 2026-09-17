@@ -27,4 +27,5 @@ public class ConfiguracionInterfaz {
     public int getTamañoFuente() {
         return tamañoFuente;
     }
+
 }
