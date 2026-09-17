@@ -6,7 +6,7 @@ public class ConfiguracionInterfaz {
 
     private ConfiguracionInterfaz() {
         Idioma = "ES";
-        tamañoFuente = 12;
+        tamañoFuente = 16;
     }
 //El singleton
     public static ConfiguracionInterfaz getInstancia() {
